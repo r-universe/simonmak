@@ -5,6 +5,3 @@
 [submodule "atmopt"]
 	path = atmopt
 	url = https://github.com/cran/atmopt
-[submodule "minimaxdesign"]
-	path = minimaxdesign
-	url = https://github.com/cran/minimaxdesign
